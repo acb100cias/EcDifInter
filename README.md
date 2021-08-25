@@ -33,7 +33,7 @@ Repositorio con ejemplos escritos en Python https://github.com/acb100cias/EcDifI
 Material de consulta en una carpeta de acceso colectivo en Yandex Drive https://yadi.sk/d/_Bwhz7mkvz6fsA
 
 ## Referencias:
-L. Elsgotz. Ecuaciones diferenciales y cálculo variacional. Ed Mir, Moscú, 1969.
+L. Elsgoltz. Ecuaciones diferenciales y cálculo variacional. Ed Mir, Moscú, 1969.
 
 P. Blanchard, R Devaney y G. Hall. Ecuaciones diferenciales. International Thomson, 1998.
 
